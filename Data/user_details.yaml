@@ -1,0 +1,17 @@
+standard_user1:
+  first_name: John
+  last_name: Wick
+  address: Sinpas
+  city: Ankara
+  state_1: Tr
+  state_2: Turkiye
+  z_code: 64000
+  phone_number: 999 77 44
+  ssn: sss
+  user_name: johnwick07
+  password: 12345
+  invalid_user_name: johnwick
+  invalid_password: 1234
+  account: 1111
+  amount: 87
+  bill_type: water bill
